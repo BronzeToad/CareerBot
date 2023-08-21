@@ -1,0 +1,35 @@
+{
+  "title":"string",
+  "employmentType":"Full-time/Part-time/Self-employed/Freelance/Contract",
+  "companyName":"string",
+  "location":{
+    "country":"United States",
+    "state":"string",
+    "city":"string"
+  },
+  "locationType":"Remote/On-site/Hybrid",
+  "current":false,
+  "startDate":{
+    "year":9999,
+    "month":99
+  },
+  "endDate":{
+    "year":9999,
+    "month":99
+  },
+  "software":[
+    "a",
+    "b",
+    "c"
+  ],
+  "skills":[
+    "a",
+    "b",
+    "c"
+  ],
+  "descriptionBullets":[
+    "a",
+    "b",
+    "c"
+  ]
+}
