@@ -148,6 +148,40 @@
       ]
     },
     {
+      "title": "Referral Specialist",
+      "employmentType": "Full-time",
+      "companyName": "Superior HealthPlan (Centene)",
+      "location":{
+        "country":"United States",
+        "state":"Texas",
+        "city":"Austin"
+      },
+      "locationType": "On-site",
+      "current":false,
+      "startDate": {
+        "year":2015,
+        "month":5
+      },
+      "endDate": {
+        "year":2016,
+        "month":7
+      },
+      "skills": [
+        "Process Improvement",
+        "Customer Service",
+        "Team Collaboration",
+        "Data Quality Assurance",
+        "Communication",
+        "Time Management",
+        "Healthcare Systems Knowledge"
+      ],
+      "descriptionBullets": [
+        "Pioneered the implementation of advanced tracking and reporting systems through the creation of note templates, elevating data accuracy and user accessibility.",
+        "Conducted comprehensive evaluations of existing workflows, leading to the implementation of best practices that optimized operations and increased efficiency.",
+        "Proactively identified and proposed solutions to eliminate inefficiencies, resulting in marked improvements in operational productivity and process quality."
+      ]
+    },
+    {
       "title":"Reconciliation Coordinator I",
       "employmentType":"Full-time",
       "companyName":"Superior HealthPlan (Centene)",
@@ -258,10 +292,10 @@
       ],
       "descriptionBullets":[
         "Engineered and maintained a comprehensive business intelligence ecosystem using MicroStrategy, empowering stakeholders with actionable data for informed decision-making.",
-        "Spearheaded root cause analyses on intricate business processes, pinpointing and addressing critical areas for enhancement..",
+        "Spearheaded root cause analyses on intricate business processes, pinpointing and addressing critical areas for enhancement.",
         "Crafted and optimized MicroStrategy datasets, reports, and dashboards through SQL, elevating the scalability and stability of business solutions.",
         "Utilized an extensive toolkit including SQL, R, and Python for in-depth data analysis, revealing key business insights.",
-        "Authored and executed SQL, R, and Python scripts for data wrangling and cleaning, significantly improving data quality and readiness for analysis..",
+        "Authored and executed SQL, R, and Python scripts for data wrangling and cleaning, significantly improving data quality and readiness for analysis.",
         "Fostered strong relationships with project stakeholders, translating data analytics into impactful business solutions.",
         "Automated routine MS Excel tasks using VBA scripts, cutting down manual data preparation time by an impressive 93%.",
         "Implemented Python-driven automation for recurring reports, achieving a time-saving efficiency boost of 97%."
@@ -1004,17 +1038,17 @@
     {
       "name": "Data Analysis",
       "type": "Data Science Technique",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Data Cleaning and Preprocessing",
       "type": "Data Management Process",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Data Engineering",
       "type": "IT Process",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Data Governance",
@@ -1044,7 +1078,7 @@
     {
       "name": "Data Science",
       "type": "Field of Study",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Data Security and Integrity",
@@ -1054,7 +1088,7 @@
     {
       "name": "Data Visualization",
       "type": "Data Presentation Technique",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Decision Making",
@@ -1087,6 +1121,11 @@
       "sticky": false
     },
     {
+      "name": "Healthcare Systems Knowledge",
+      "type": "Domain-Specific Skill",
+      "sticky": false
+    },
+    {
       "name": "Inventory Management",
       "type": "Business Process",
       "sticky": false
@@ -1104,7 +1143,7 @@
     {
       "name": "Machine Learning",
       "type": "Data Science Technique",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Mentoring and Guidance",
@@ -1214,7 +1253,7 @@
     {
       "name": "Team Collaboration",
       "type": "Management Skill",
-      "sticky": false
+      "sticky": true
     },
     {
       "name": "Team Leadership",
