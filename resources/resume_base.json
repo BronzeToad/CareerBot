@@ -52,20 +52,19 @@
         "year":2022,
         "month":6
       },
-      "software":[
+      "languages":[
         "Python",
         "SQL",
-        "NoSQL",
-        "PLpgSQL",
         "R (Programming Language)",
-        "Tableau",
         "C++"
       ],
       "skills":[
         "Machine Learning",
         "Software Development",
         "Data Engineering",
-        "Data Science"
+        "Data Science",
+        "NoSQL",
+        "Tableau"
       ]
     }
   ],
@@ -89,17 +88,15 @@
         "year":2013,
         "month":10
       },
-      "software":[
-        "Oracle",
-        "MS Excel"
-      ],
       "skills":[
         "Demand Forecast Analysis",
         "Data Reconciliation",
         "Billing Compliance",
         "Customer Service",
         "Inventory Management",
-        "Team Collaboration"
+        "Team Collaboration",
+        "Oracle",
+        "Microsoft Excel"
       ],
       "descriptionBullets":[
         "Analyzed demand forecasts to determine department staffing needs, ensuring optimal staffing levels to meet operational demands.",
@@ -128,18 +125,16 @@
         "year":2016,
         "month":7
       },
-      "software":[
-        "MS Access"
-      ],
       "skills":[
         "Data Integrity",
         "Process Improvement",
         "Operational Efficiency",
-        "Data Analysis",
+        "Data Analytics",
         "Business Process Optimization",
         "Reporting & Documentation",
         "Stakeholder Collaboration",
-        "Problem Solving"
+        "Problem Solving",
+        "Microsoft Access"
       ],
       "descriptionBullets":[
         "Championed enhanced tracking and reporting mechanisms by introducing note templates, leading to a marked improvement in data accuracy and ease of access.",
@@ -200,12 +195,11 @@
         "year":2017,
         "month":9
       },
-      "software":[
-        "MS Excel",
+      "languages": [
         "Visual Basic for Applications (VBA)"
       ],
       "skills":[
-        "Data Analysis",
+        "Data Analytics",
         "Data Visualization",
         "Automation",
         "Leadership Collaboration",
@@ -214,7 +208,8 @@
         "Team Management",
         "Cost-Benefit Analysis",
         "Quality Assurance",
-        "Stakeholder Engagement"
+        "Stakeholder Engagement",
+        "Microsoft Excel"
       ],
       "descriptionBullets":[
         "Engineered a comprehensive dashboard to monitor process error trends, providing actionable data that fueled significant improvements in operational processes.",
@@ -267,28 +262,27 @@
         "year":2020,
         "month":6
       },
-      "software":[
+      "languages":[
         "SQL",
         "Python",
         "R (Programming Language)",
-        "Visual Basic for Applications (VBA)",
-        "MicroStrategy",
-        "MS Excel",
-        "MS Access",
-        "Teradata"
+        "Visual Basic for Applications (VBA)"
       ],
       "skills":[
-        "Data Analysis",
+        "Data Analytics",
         "Data Visualization",
         "Business Intelligence Development",
         "Root Cause Analysis",
-        "Data Analysis",
         "Automation",
         "Project Management",
         "Stakeholder Engagement",
         "Team Collaboration",
         "Performance Metrics",
-        "Process Optimization"
+        "Process Optimization",
+        "MicroStrategy",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Teradata"
       ],
       "descriptionBullets":[
         "Engineered and maintained a comprehensive business intelligence ecosystem using MicroStrategy, empowering stakeholders with actionable data for informed decision-making.",
@@ -344,16 +338,10 @@
         "year":2021,
         "month":12
       },
-      "software":[
-        "MS Office 365",
-        "MS Excel",
-        "MS SharePoint",
-        "MS Power Automate"
-      ],
       "skills":[
         "Data Visualization",
         "MS Office 365 Administration",
-        "Data Analysis",
+        "Data Analytics",
         "Business Consulting",
         "Workflow Automation",
         "Process Improvement",
@@ -361,7 +349,11 @@
         "Project Management",
         "Team Leadership",
         "Strategic Planning",
-        "Change Management"
+        "Change Management",
+        "Microsoft Office 365",
+        "Microsoft Excel",
+        "Microsoft SharePoint",
+        "Microsoft Power Automate"
       ],
       "descriptionBullets":[
         "Spearheaded business consulting initiatives focused on data-driven process optimization, enabling clients to enhance operational efficiency and make informed decisions.",
@@ -387,12 +379,9 @@
         "year":2022,
         "month":8
       },
-      "software":[
+      "languages":[
         "Python",
         "SQL",
-        "MS SQL Server",
-        "MS PowerBI",
-        "MS PowerShell",
         "Bash"
       ],
       "skills":[
@@ -400,7 +389,7 @@
         "Extract, Transform, Load (ETL)",
         "MS Office 365 Administration",
         "Data Modeling",
-        "Data Analysis",
+        "Data Analytics",
         "SQL Database Architecture",
         "Process Automation",
         "Performance Monitoring and Optimization",
@@ -410,7 +399,10 @@
         "Team Collaboration",
         "Technical Documentation",
         "Cloud Computing",
-        "Business Intelligence"
+        "Business Intelligence",
+        "Microsoft SQL Server",
+        "Microsoft PowerBI",
+        "Microsoft PowerShell"
       ],
       "descriptionBullets":[
         "Architected a SQL database and ETL processes tailored for PowerBI metadata, providing invaluable resources for administrative decision-making.",
@@ -474,14 +466,14 @@
         "year":2023,
         "month":8
       },
-      "software":[
+      "languages":[
         "Java",
-        "Python",
-        "Google Cloud Platform (GCP)",
-        "Apache Airflow",
-        "Amazon Web Services (AWS)"
+        "Python"
       ],
       "skills":[
+        "Google Cloud Platform (GCP)",
+        "Apache Airflow",
+        "Amazon Web Services (AWS)",
         "Data Engineering",
         "Extract, Transform, Load (ETL)",
         "ETL Pipeline Development",
@@ -601,12 +593,10 @@
         "id":"17741733",
         "url":"https://www.credential.net/d92c0cef-5add-4c76-bd0e-650be91ab845"
       },
-      "software":[
-        "MicroStrategy"
-      ],
       "skills":[
         "Data Visualization",
-        "Data Science"
+        "Data Science",
+        "MicroStrategy"
       ]
     },
     {
@@ -625,11 +615,9 @@
         "id":"14592394",
         "url":"https://www.credential.net/1fa04c41-6970-4ab4-8bfd-207ace086681"
       },
-      "software":[
-        "MicroStrategy"
-      ],
       "skills":[
-        "Data Visualization"
+        "Data Visualization",
+        "MicroStrategy"
       ]
     },
     {
@@ -648,11 +636,9 @@
         "id":"14591588",
         "url":"https://www.credential.net/fe2bb8b8-063b-43cd-8266-642922d0f658"
       },
-      "software":[
-        "MicroStrategy"
-      ],
       "skills":[
-        "Data Visualization"
+        "Data Visualization",
+        "MicroStrategy"
       ]
     }
   ],
@@ -665,14 +651,14 @@
         "url":"https://github.com/BronzeToad/StroopAnalysis",
         "description":"Unraveling Cognitive Processes through the Stroop Test"
       },
-      "software":[
+      "languages":[
         "Python"
       ],
       "skills":[
         "Statistical Analysis",
         "Data Science",
         "Data Visualization",
-        "Data Analysis"
+        "Data Analytics"
       ]
     },
     {
@@ -683,11 +669,11 @@
         "url":"https://github.com/BronzeToad/NicsFirearmProject",
         "description":"Unveiling Firearm Purchase Patterns with Data Science"
       },
-      "software":[
+      "languages":[
         "Python"
       ],
       "skills":[
-        "Data Analysis",
+        "Data Analytics",
         "Data Visualization",
         "Statistical Analysis",
         "Data Science"
@@ -701,11 +687,11 @@
         "url":"https://github.com/BronzeToad/WineQuality",
         "description":"Unearthing Hidden Factors Influencing Quality"
       },
-      "software":[
+      "languages":[
         "R (Programming Language)"
       ],
       "skills":[
-        "Data Analysis",
+        "Data Analytics",
         "Data Visualization",
         "Data Visualization",
         "Statistical Analysis",
@@ -721,7 +707,7 @@
         "url":"https://github.com/BronzeToad/ClassRosterManager",
         "description":"Efficient Class Management with C++"
       },
-      "software":[
+      "languages":[
         "C++"
       ],
       "skills":[
@@ -738,7 +724,7 @@
         "url":"https://github.com/BronzeToad/IdCustomerSegments",
         "description":"Harnessing Unsupervised Learning for Core Customer Identification"
       },
-      "software":[
+      "languages":[
         "Python"
       ],
       "skills":[
@@ -757,15 +743,15 @@
         "url":"https://github.com/BronzeToad/DataVizBaseball",
         "description":"Exploring the Dynamics of Baseball Salaries"
       },
-      "software":[
-        "Python",
-        "Tableau"
+      "languages":[
+        "Python"
       ],
       "skills":[
         "Data Visualization",
-        "Data Analysis",
+        "Data Analytics",
         "Data Cleaning and Preprocessing",
-        "Data Engineering"
+        "Data Engineering",
+        "Tableau"
       ]
     },
     {
@@ -776,11 +762,11 @@
         "url":"https://github.com/BronzeToad/AllStarRosters",
         "description":"Exploring Player Performance and Selection Relationship"
       },
-      "software":[
+      "languages":[
         "Python"
       ],
       "skills":[
-        "Data Analysis",
+        "Data Analytics",
         "Web Scraping",
         "Data Engineering",
         "Data Visualization"
@@ -794,17 +780,16 @@
         "url":"https://github.com/BronzeToad/OpenStreetMapsAustin",
         "description":"Cleaning, Analyzing, and Visualizing Austin's Geospatial Data"
       },
-      "software":[
+      "languages":[
         "Python",
-        "SQL",
-        "NoSQL",
-        "PLpgSQL"
+        "SQL"
       ],
       "skills":[
         "Data Cleaning and Preprocessing",
-        "Data Analysis",
+        "Data Analytics",
         "Data Engineering",
-        "Geospatial Data"
+        "Geospatial Data",
+        "NoSQL"
       ]
     },
     {
@@ -815,7 +800,7 @@
         "url":"https://github.com/BronzeToad/CharityMLFindingDonors",
         "description":"Optimizing Fundraising Efforts with Predictive Modeling"
       },
-      "software":[
+      "languages":[
         "Python"
       ],
       "skills":[
@@ -827,121 +812,38 @@
       ]
     }
   ],
-  "software":[
-    {
-      "name": "Amazon Web Services (AWS)",
-      "level": 50,
-      "sticky": false
-    },
-    {
-      "name": "Apache Airflow",
-      "level": 95,
-      "sticky": true
-    },
+  "languages":[
     {
       "name": "Bash",
-      "level": 65,
-      "sticky": false
+      "level": 65
     },
     {
       "name": "C++",
-      "level": 50,
-      "sticky": false
-    },
-    {
-      "name": "Google Cloud Platform (GCP)",
-      "level": 85,
-      "sticky": false
+      "level": 50
     },
     {
       "name": "Java",
-      "level": 90,
-      "sticky": true
+      "level": 90
     },
     {
-      "name": "MicroStrategy",
-      "level": 85,
-      "sticky": false
-    },
-    {
-      "name": "MS Access",
-      "level": 80,
-      "sticky": false
-    },
-    {
-      "name": "MS Excel",
-      "level": 95,
-      "sticky": false
-    },
-    {
-      "name": "MS Office 365",
-      "level": 80,
-      "sticky": false
-    },
-    {
-      "name": "MS Power Automate",
-      "level": 70,
-      "sticky": false
-    },
-    {
-      "name": "MS PowerShell",
-      "level": 70,
-      "sticky": false
-    },
-    {
-      "name": "MS SharePoint",
-      "level": 75,
-      "sticky": false
-    },
-    {
-      "name": "MS SQL Server",
-      "level": 75,
-      "sticky": false
-    },
-    {
-      "name": "NoSQL",
-      "level": 70,
-      "sticky": false
-    },
-    {
-      "name": "Oracle",
-      "level": 55,
-      "sticky": false
-    },
-    {
-      "name": "PLpgSQL",
-      "level": 90,
-      "sticky": false
+      "name": "Microsoft PowerShell",
+      "level": 70
     },
     {
       "name": "Python",
-      "level": 95,
-      "sticky": true
+      "level": 95
     },
     {
       "name": "R (Programming Language)",
-      "level": 75,
-      "sticky": false
+      "level": 75
     },
     {
       "name": "SQL",
-      "level": 90,
-      "sticky": true
-    },
-    {
-      "name": "Tableau",
-      "level": 70,
-      "sticky": false
-    },
-    {
-      "name": "Teradata",
-      "level": 70,
-      "sticky": false
+      "level": 90
     },
     {
       "name": "Visual Basic for Applications (VBA)",
-      "level": 80,
-      "sticky": false
+      "level": 70
     }
   ],
   "skills": [
@@ -954,6 +856,16 @@
       "name": "Adaptability",
       "type": "Soft Skill",
       "sticky": false
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "type": "Cloud Computing Skill",
+      "sticky": true
+    },
+    {
+      "name": "Apache Airflow",
+      "type": "Data Pipeline Skill",
+      "sticky": true
     },
     {
       "name": "API Development",
@@ -1036,7 +948,7 @@
       "sticky": false
     },
     {
-      "name": "Data Analysis",
+      "name": "Data Analytics",
       "type": "Data Science Technique",
       "sticky": true
     },
@@ -1121,6 +1033,11 @@
       "sticky": false
     },
     {
+      "name": "Google Cloud Platform (GCP)",
+      "type": "Cloud Computing Skill",
+      "sticky": true
+    },
+    {
       "name": "Healthcare Systems Knowledge",
       "type": "Domain-Specific Skill",
       "sticky": false
@@ -1151,6 +1068,46 @@
       "sticky": false
     },
     {
+      "name": "MicroStrategy",
+      "type": "Business Intelligence Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft Access",
+      "type": "Database Management Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft Excel",
+      "type": "Data Analysis Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft Office 365",
+      "type": "Productivity Software Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "type": "Automation Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft SharePoint",
+      "type": "Collaboration Software Skill",
+      "sticky": false
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "type": "Database Management Skill",
+      "sticky": false
+    },
+    {
+      "name": "NoSQL",
+      "type": "Database Management Skill",
+      "sticky": false
+    },
+    {
       "name": "Object-Oriented Programming",
       "type": "Software Development Technique",
       "sticky": false
@@ -1158,6 +1115,11 @@
     {
       "name": "Operational Efficiency",
       "type": "Business Metric",
+      "sticky": false
+    },
+    {
+      "name": "Oracle",
+      "type": "Database Management Skill",
       "sticky": false
     },
     {
@@ -1251,6 +1213,11 @@
       "sticky": false
     },
     {
+      "name": "Tableau",
+      "type": "Data Visualization Skill",
+      "sticky": false
+    },
+    {
       "name": "Team Collaboration",
       "type": "Management Skill",
       "sticky": true
@@ -1273,6 +1240,11 @@
     {
       "name": "Technical Documentation",
       "type": "IT Process",
+      "sticky": false
+    },
+    {
+      "name": "Teradata",
+      "type": "Database Management Skill",
       "sticky": false
     },
     {
