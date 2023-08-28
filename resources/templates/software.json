@@ -1,4 +1,5 @@
 {
   "name": "software_name",
-  "flag": false
+  "level": 100,
+  "sticky": false
 }
