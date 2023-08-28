@@ -1,0 +1,19 @@
+{
+  "name": "project_name",
+  "description": "project_description",
+  "link": {
+    "name": "GitHub: ExampleProject",
+    "url": "https://github.com/BronzeToad/ExampleProject",
+    "description": "short_description"
+  },
+  "software": [
+    "a",
+    "b",
+    "c"
+  ],
+  "skills": [
+    "a",
+    "b",
+    "c"
+  ]
+}
