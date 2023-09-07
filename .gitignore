@@ -1,6 +1,6 @@
 # Other Stuff
 .idea/
-src/usernames/
+sandbox/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
