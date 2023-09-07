@@ -1,13 +1,14 @@
 import configparser
-from typing import List, Optional
+import os
+from typing import Optional
 
 import openai
-from dotenv import load_dotenv
-import os
 import tiktoken
+from dotenv import load_dotenv
 
 from src.helpers import toad_tools as ToadTools
 from src.helpers.toad_tools import FileType
+from src.helpers.create_folders import get_folder_name
 
 # =========================================================================== #
 
@@ -67,12 +68,13 @@ def get_resume(filename: str):
 def generate_content_api_call(
     company: str,
     position: str,
-    job_desc_filename: str,
+    job_desc_filename: Optional[str] = None,
     company_filename: Optional[str] = None,
     resume_filename: Optional[str] = None,
     model: Optional[str] = None
 ):
     company_fname = company_filename or company.lower()
+    job_desc_fname = job_desc_filename or get_folder_name(company, position)
     openai.api_key = get_openai_api_key()
     _model = model or get_default_model()
     response = openai.ChatCompletion.create(
@@ -80,7 +82,7 @@ def generate_content_api_call(
         messages=[
             {"role": "system", "content": build_system_msg(company, position)},
             {"role": "user", "content": build_resume_msg(resume_filename)},
-            {"role": "user", "content": build_job_desc_msg(job_desc_filename)},
+            {"role": "user", "content": build_job_desc_msg(job_desc_fname)},
             {"role": "user", "content": build_company_profile_msg(company_fname)},
             {"role": "user", "content": "You should have everything you need "
                                         "to complete the assigned tasks."}
