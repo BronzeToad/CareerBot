@@ -3,6 +3,7 @@ import os
 import re
 from typing import List, Optional, Union
 
+
 # =========================================================================== #
 
 def replace_position_dash(position: str) -> str:
@@ -42,7 +43,7 @@ def get_folder_name(
 def get_job_search_dir(subfolder: str = None) -> str:
     """Return the job search directory path."""
     config = configparser.ConfigParser()
-    config.read('/Users/ajp/Documents/Projects/CareerBot/config/main.ini')
+    config.read('/Users/ajp/Documents/Projects/CareerBot/main.ini')
     job_search_root = config.get('Directories', 'JobSearchRoot')
 
     if subfolder is None:
