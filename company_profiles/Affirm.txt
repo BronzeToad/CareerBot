@@ -1,0 +1,26 @@
+Overview
+At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.
+We have roles across a variety of teams, including engineering, product, finance, operations, revenue, marketing, people and more.
+Affirm is also proud to be a remote-first company! Attracting great people starts by finding talent in different places. That's why we built remote work into the DNA of how we do business—but if an office space is more your style, we have offices in Chicago, New York City, Pittsburgh, San Francisco, and Toronto.
+Not to mention we have comprehensive and award-winning benefits that were made for you.
+
+Who is an Affirmer?
+Someone who believes finance shouldn’t be complicated. We come from a diverse set of backgrounds and we’re driven by the desire to improve lives through honest financial products. We define success by challenging one another to bring our best ideas to every single project—and we have fun while doing it.
+
+Our mission is simple: Deliver honest financial products to improve lives
+We believe the financial industry desperately needs reinvention. Not only is the core infrastructure built with technology from the 1970s, but a dwindling number of people can say "I trust my bank to look out for me." Affirm’s mission is to fix this problem. We are using modern technology to re-imagine and re-build core components of financial infrastructure from the ground up. We’re focusing on improving the lives of everyday consumers with less expensive, more transparent financial products. 
+
+Make an impact in the world. Work with people who bring out the best in you.
+Affirmers believe people come first. We’re passionate about building something that makes a positive change in our customers’ lives. If you're at all curious about what we're up to, we want to meet you. 
+
+LGBTQ+ Employee Resource Group
+For our LGBTQ+ community and their allies to focus on four primary areas, programming and visibility, recruitment and business strategy, provide input on internal policies and practices, and leadership development.
+
+Growing your career at Affirm
+At Affirm, you will be a contributing member of our world-class engineering team, and as such you will work on meaningful projects and frequently ship code. Recent grads and past interns have built a real-time high-throughput data processing pipeline, developed an extensive automated testing framework, and built out our proprietary financial platform that is central to our long term company mission.
+
+Making an Impact
+Affirm is here to define the new normal in financial services. Regardless of what team you're working on, there's a lot to do! Our Interns & Apprentices have worked on impactful projects from rebuilding the merchant browser page of iOS with a new UI and a more robust codebase to another project building a repayment API cache for faster underwriting and speedier checkouts.
+
+Building your community
+From Fireside Chats with the CEO to pizza-making classes, there are plenty of opportunities for you to immerse yourself into the company’s culture while building relationships with fellow Interns and Affirmers. Additionally, our Employee Resource Groups and Community Groups host events and activities for you to join in on and meet folks across the company. It’s guaranteed you’ll gain a memorable and positive experience shaped by the interactions and connections you encounter!
